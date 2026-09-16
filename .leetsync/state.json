@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789540566784,
+  "updatedAt": 1789540866663,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1789540566248
+      "lastSeen": 1789540866187
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1789540566248
+      "at": 1789540866187
     },
     "509": {
       "attempts": 1,
@@ -46,7 +46,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1789540566248
+      "at": 1789540866187
     }
   },
   "achievements": {
