@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789633629453,
+  "updatedAt": 1789633702813,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1789633628939
+      "lastSeen": 1789633702329
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1789633628939
+      "at": 1789633702329
     },
     "509": {
       "attempts": 1,
@@ -46,7 +46,26 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1789633628939
+      "at": 1789633702329
+    },
+    "860": {
+      "attempts": 1,
+      "bestMemory": "72.5 MB (Beats 49%)",
+      "bestRuntime": "1 ms (Beats 100%)",
+      "date": "2026-09-17",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-17",
+      "folderName": "0860-Lemonade-Change",
+      "language": "Java",
+      "number": 860,
+      "slug": "lemonade-change",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Greedy"
+      ],
+      "title": "Lemonade Change",
+      "at": 1789633702329
     }
   },
   "achievements": {
@@ -57,11 +76,12 @@
   "sheets": {},
   "days": [
     "2026-09-14",
-    "2026-09-15"
+    "2026-09-15",
+    "2026-09-17"
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 2
+    "pushes": 3
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
