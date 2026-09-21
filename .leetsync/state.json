@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789991204171,
+  "updatedAt": 1789991308613,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1789991203106
+      "lastSeen": 1789991307841
     }
   },
   "problems": {
@@ -24,7 +24,26 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1789991203106
+      "at": 1789991307841
+    },
+    "40": {
+      "attempts": 1,
+      "bestMemory": "44.8 MB (Beats 93%)",
+      "bestRuntime": "5 ms (Beats 99%)",
+      "date": "2026-09-21",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-21",
+      "folderName": "0040-Combination-Sum-II",
+      "language": "Java",
+      "number": 40,
+      "slug": "combination-sum-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Backtracking"
+      ],
+      "title": "Combination Sum II",
+      "at": 1789991307841
     },
     "122": {
       "attempts": 1,
@@ -44,7 +63,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1789991203106
+      "at": 1789991307841
     },
     "509": {
       "attempts": 1,
@@ -65,7 +84,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1789991203106
+      "at": 1789991307841
     },
     "860": {
       "attempts": 1,
@@ -84,7 +103,7 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1789991203106
+      "at": 1789991307841
     }
   },
   "achievements": {
@@ -101,7 +120,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 4
+    "pushes": 5
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
