@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790075146818,
+  "updatedAt": 1790075308887,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1790075145546
+      "lastSeen": 1790075307831
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1790075145546
+      "at": 1790075307831
     },
     "40": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1790075145546
+      "at": 1790075307831
     },
     "122": {
       "attempts": 1,
@@ -63,26 +63,26 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1790075145546
+      "at": 1790075307831
     },
     "216": {
-      "attempts": 3,
-      "bestMemory": "42.4 MB (Beats 48%)",
+      "attempts": 4,
+      "bestMemory": "42.4 MB (Beats 66%)",
       "bestRuntime": "0 ms (Beats 100%)",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "difficulty": "Medium",
-      "firstSolvedOn": "2026-09-21",
+      "firstSolvedOn": "2026-09-22",
       "folderName": "0216-Combination-Sum-III",
       "language": "Java",
       "number": 216,
       "slug": "combination-sum-iii",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Array",
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1790075145546
+      "at": 1790075307831
     },
     "509": {
       "attempts": 1,
@@ -103,7 +103,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1790075145546
+      "at": 1790075307831
     },
     "860": {
       "attempts": 1,
@@ -122,7 +122,7 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1790075145546
+      "at": 1790075307831
     }
   },
   "achievements": {
@@ -135,11 +135,12 @@
     "2026-09-14",
     "2026-09-15",
     "2026-09-17",
-    "2026-09-21"
+    "2026-09-21",
+    "2026-09-22"
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 6
+    "pushes": 7
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
