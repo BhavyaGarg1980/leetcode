@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790078300581,
+  "updatedAt": 1790078608468,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1790078300052
+      "lastSeen": 1790078607851
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1790078300052
+      "at": 1790078607851
     },
     "40": {
       "attempts": 1,
@@ -43,11 +43,11 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1790078300052
+      "at": 1790078607851
     },
     "46": {
-      "attempts": 1,
-      "bestMemory": "45.6 MB (Beats 30%)",
+      "attempts": 2,
+      "bestMemory": "45.8 MB (Beats 16%)",
       "bestRuntime": "2 ms (Beats 36%)",
       "date": "2026-09-22",
       "difficulty": "Medium",
@@ -56,13 +56,13 @@
       "language": "Java",
       "number": 46,
       "slug": "permutations",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Array",
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1790078300052
+      "at": 1790078607851
     },
     "122": {
       "attempts": 1,
@@ -82,7 +82,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1790078300052
+      "at": 1790078607851
     },
     "216": {
       "attempts": 4,
@@ -101,7 +101,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1790078300052
+      "at": 1790078607851
     },
     "509": {
       "attempts": 1,
@@ -122,7 +122,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1790078300052
+      "at": 1790078607851
     },
     "860": {
       "attempts": 1,
@@ -141,7 +141,7 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1790078300052
+      "at": 1790078607851
     }
   },
   "achievements": {
@@ -159,7 +159,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 8
+    "pushes": 9
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
