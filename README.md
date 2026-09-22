@@ -32,7 +32,7 @@
 | 39 | [Combination Sum](problems/0039-Combination-Sum) | 🟧 Medium | `Java` | 2026-09-21 |
 | 40 | [Combination Sum II](problems/0040-Combination-Sum-II) | 🟧 Medium | `Java` | 2026-09-21 |
 | 122 | [Best Time to Buy and Sell Stock II](problems/0122-Best-Time-to-Buy-and-Sell-Stock-II) | 🟧 Medium | `Java` | 2026-09-15 |
-| 216 | [Combination Sum III](problems/0216-Combination-Sum-III) | 🟧 Medium | `Java` | 2026-09-21 |
+| 216 | [Combination Sum III](problems/0216-Combination-Sum-III) | 🟧 Medium | `Java` | 2026-09-22 |
 | 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Java` | 2026-09-14 |
 | 860 | [Lemonade Change](problems/0860-Lemonade-Change) | 🟩 Easy | `Java` | 2026-09-17 |
 
