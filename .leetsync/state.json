@@ -1,12 +1,31 @@
 {
   "v": 1,
-  "updatedAt": 1790163182732,
+  "updatedAt": 1790163483145,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1790163181856
+      "lastSeen": 1790163481888
     }
   },
   "problems": {
+    "31": {
+      "attempts": 2,
+      "bestMemory": "44.7 MB (Beats 51%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-23",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-23",
+      "folderName": "0031-Next-Permutation",
+      "language": "Java",
+      "number": 31,
+      "slug": "next-permutation",
+      "solutionCount": 2,
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "title": "Next Permutation",
+      "at": 1790163481888
+    },
     "39": {
       "attempts": 1,
       "bestMemory": "45.7 MB (Beats 67%)",
@@ -24,7 +43,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1790163181856
+      "at": 1790163481888
     },
     "40": {
       "attempts": 1,
@@ -43,7 +62,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1790163181856
+      "at": 1790163481888
     },
     "46": {
       "attempts": 2,
@@ -62,7 +81,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1790163181856
+      "at": 1790163481888
     },
     "122": {
       "attempts": 1,
@@ -82,7 +101,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1790163181856
+      "at": 1790163481888
     },
     "216": {
       "attempts": 4,
@@ -101,7 +120,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1790163181856
+      "at": 1790163481888
     },
     "509": {
       "attempts": 1,
@@ -122,7 +141,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1790163181856
+      "at": 1790163481888
     },
     "860": {
       "attempts": 1,
@@ -141,13 +160,14 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1790163181856
+      "at": 1790163481888
     }
   },
   "achievements": {
     "early_bird": 1789601469374,
     "first_blood": 1789386604317,
-    "night_owl": 1789504270013
+    "night_owl": 1789504270013,
+    "on_fire": 1790163197651
   },
   "sheets": {},
   "days": [
@@ -155,11 +175,12 @@
     "2026-09-15",
     "2026-09-17",
     "2026-09-21",
-    "2026-09-22"
+    "2026-09-22",
+    "2026-09-23"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 9
+    "longestStreak": 3,
+    "pushes": 11
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
