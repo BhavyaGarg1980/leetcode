@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790164344523,
+  "updatedAt": 1790164682751,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1790164343396
+      "lastSeen": 1790164681882
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Two Pointers"
       ],
       "title": "Next Permutation",
-      "at": 1790164343396
+      "at": 1790164681882
     },
     "39": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1790164343396
+      "at": 1790164681882
     },
     "40": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1790164343396
+      "at": 1790164681882
     },
     "46": {
       "attempts": 2,
@@ -81,7 +81,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1790164343396
+      "at": 1790164681882
     },
     "122": {
       "attempts": 1,
@@ -101,7 +101,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1790164343396
+      "at": 1790164681882
     },
     "216": {
       "attempts": 4,
@@ -120,7 +120,28 @@
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1790164343396
+      "at": 1790164681882
+    },
+    "491": {
+      "attempts": 1,
+      "bestMemory": "52.6 MB (Beats 84%)",
+      "bestRuntime": "6 ms (Beats 92%)",
+      "date": "2026-09-23",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-23",
+      "folderName": "0491-Non-decreasing-Subsequences",
+      "language": "Java",
+      "number": 491,
+      "slug": "non-decreasing-subsequences",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Backtracking",
+        "Bit Manipulation"
+      ],
+      "title": "Non-decreasing Subsequences",
+      "at": 1790164681882
     },
     "509": {
       "attempts": 1,
@@ -141,7 +162,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1790164343396
+      "at": 1790164681882
     },
     "860": {
       "attempts": 1,
@@ -160,7 +181,7 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1790164343396
+      "at": 1790164681882
     }
   },
   "achievements": {
@@ -180,7 +201,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 11
+    "pushes": 12
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
