@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790334824339,
+  "updatedAt": 1790335079413,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1790334823247
+      "lastSeen": 1790335078172
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Two Pointers"
       ],
       "title": "Next Permutation",
-      "at": 1790334823247
+      "at": 1790335078172
     },
     "39": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1790334823247
+      "at": 1790335078172
     },
     "40": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1790334823247
+      "at": 1790335078172
     },
     "46": {
       "attempts": 2,
@@ -81,7 +81,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1790334823247
+      "at": 1790335078172
     },
     "122": {
       "attempts": 1,
@@ -101,7 +101,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1790334823247
+      "at": 1790335078172
     },
     "216": {
       "attempts": 4,
@@ -120,7 +120,26 @@
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1790334823247
+      "at": 1790335078172
+    },
+    "326": {
+      "attempts": 1,
+      "bestMemory": "46.2 MB (Beats 26%)",
+      "bestRuntime": "8 ms (Beats 92%)",
+      "date": "2026-09-25",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-25",
+      "folderName": "0326-Power-of-Three",
+      "language": "Java",
+      "number": 326,
+      "slug": "power-of-three",
+      "solutionCount": 1,
+      "tags": [
+        "Math",
+        "Recursion"
+      ],
+      "title": "Power of Three",
+      "at": 1790335078172
     },
     "491": {
       "attempts": 1,
@@ -141,7 +160,7 @@
         "Bit Manipulation"
       ],
       "title": "Non-decreasing Subsequences",
-      "at": 1790334823247
+      "at": 1790335078172
     },
     "509": {
       "attempts": 1,
@@ -162,7 +181,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1790334823247
+      "at": 1790335078172
     },
     "860": {
       "attempts": 1,
@@ -181,10 +200,11 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1790334823247
+      "at": 1790335078172
     }
   },
   "achievements": {
+    "deca": 1790334841752,
     "early_bird": 1789601469374,
     "first_blood": 1789386604317,
     "night_owl": 1789504270013,
@@ -197,11 +217,12 @@
     "2026-09-17",
     "2026-09-21",
     "2026-09-22",
-    "2026-09-23"
+    "2026-09-23",
+    "2026-09-25"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 12
+    "pushes": 13
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
