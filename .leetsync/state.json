@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791459487755,
+  "updatedAt": 1791459574490,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1791459485675
+      "lastSeen": 1791459573673
     }
   },
   "problems": {
@@ -26,7 +26,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "31": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Two Pointers"
       ],
       "title": "Next Permutation",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "39": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "40": {
       "attempts": 1,
@@ -83,7 +83,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "46": {
       "attempts": 2,
@@ -102,7 +102,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "51": {
       "attempts": 1,
@@ -122,7 +122,7 @@
         "Algorithm X"
       ],
       "title": "N-Queens",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "122": {
       "attempts": 1,
@@ -142,7 +142,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "131": {
       "attempts": 1,
@@ -162,7 +162,7 @@
         "Backtracking"
       ],
       "title": "Palindrome Partitioning",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "216": {
       "attempts": 4,
@@ -181,7 +181,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "326": {
       "attempts": 1,
@@ -200,7 +200,7 @@
         "Recursion"
       ],
       "title": "Power of Three",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "491": {
       "attempts": 1,
@@ -221,11 +221,11 @@
         "Bit Manipulation"
       ],
       "title": "Non-decreasing Subsequences",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "509": {
-      "attempts": 3,
-      "bestMemory": "42.4 MB (Beats 5%)",
+      "attempts": 5,
+      "bestMemory": "42 MB (Beats 52%)",
       "bestRuntime": "0 ms (Beats 100%)",
       "date": "2026-10-08",
       "difficulty": "Easy",
@@ -234,7 +234,7 @@
       "language": "Java",
       "number": 509,
       "slug": "fibonacci-number",
-      "solutionCount": 2,
+      "solutionCount": 3,
       "tags": [
         "Math",
         "Dynamic Programming",
@@ -242,7 +242,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1791459485675
+      "at": 1791459573673
     },
     "860": {
       "attempts": 1,
@@ -261,7 +261,7 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1791459485675
+      "at": 1791459573673
     }
   },
   "achievements": {
@@ -286,7 +286,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 17
+    "pushes": 18
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
