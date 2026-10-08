@@ -40,7 +40,7 @@
 | 216 | [Combination Sum III](problems/0216-Combination-Sum-III) | 🟧 Medium | `Java` | 2026-09-22 |
 | 326 | [Power of Three](problems/0326-Power-of-Three) | 🟩 Easy | `Java` | 2026-09-25 |
 | 491 | [Non-decreasing Subsequences](problems/0491-Non-decreasing-Subsequences) | 🟧 Medium | `Java` | 2026-09-23 |
-| 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Java` | 2026-09-14 |
+| 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Java` | 2026-10-08 |
 | 860 | [Lemonade Change](problems/0860-Lemonade-Change) | 🟩 Easy | `Java` | 2026-09-17 |
 
 ---
