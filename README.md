@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-14%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-4%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-9%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-15%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-4%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-10%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -38,6 +38,7 @@
 | 70 | [Climbing Stairs](problems/0070-Climbing-Stairs) | 🟩 Easy | `Java` | 2026-10-08 |
 | 122 | [Best Time to Buy and Sell Stock II](problems/0122-Best-Time-to-Buy-and-Sell-Stock-II) | 🟧 Medium | `Java` | 2026-09-15 |
 | 131 | [Palindrome Partitioning](problems/0131-Palindrome-Partitioning) | 🟧 Medium | `Java` | 2026-10-05 |
+| 198 | [House Robber](problems/0198-House-Robber) | 🟧 Medium | `Java` | 2026-10-12 |
 | 216 | [Combination Sum III](problems/0216-Combination-Sum-III) | 🟧 Medium | `Java` | 2026-09-22 |
 | 326 | [Power of Three](problems/0326-Power-of-Three) | 🟩 Easy | `Java` | 2026-09-25 |
 | 491 | [Non-decreasing Subsequences](problems/0491-Non-decreasing-Subsequences) | 🟧 Medium | `Java` | 2026-09-23 |
