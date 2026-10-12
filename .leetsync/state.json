@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791804105379,
+  "updatedAt": 1791804274338,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1791804104920
+      "lastSeen": 1791804273714
     }
   },
   "problems": {
@@ -26,7 +26,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "31": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Two Pointers"
       ],
       "title": "Next Permutation",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "39": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "40": {
       "attempts": 1,
@@ -83,7 +83,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "46": {
       "attempts": 2,
@@ -102,7 +102,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "51": {
       "attempts": 1,
@@ -122,7 +122,7 @@
         "Algorithm X"
       ],
       "title": "N-Queens",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "70": {
       "attempts": 1,
@@ -142,7 +142,7 @@
         "Memoization"
       ],
       "title": "Climbing Stairs",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "122": {
       "attempts": 1,
@@ -162,7 +162,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "131": {
       "attempts": 1,
@@ -182,7 +182,26 @@
         "Backtracking"
       ],
       "title": "Palindrome Partitioning",
-      "at": 1791804104920
+      "at": 1791804273714
+    },
+    "198": {
+      "attempts": 1,
+      "bestMemory": "42.6 MB (Beats 87%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-12",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-12",
+      "folderName": "0198-House-Robber",
+      "language": "Java",
+      "number": 198,
+      "slug": "house-robber",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "title": "House Robber",
+      "at": 1791804273714
     },
     "216": {
       "attempts": 4,
@@ -201,7 +220,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "326": {
       "attempts": 1,
@@ -220,7 +239,7 @@
         "Recursion"
       ],
       "title": "Power of Three",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "491": {
       "attempts": 1,
@@ -241,7 +260,7 @@
         "Bit Manipulation"
       ],
       "title": "Non-decreasing Subsequences",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "509": {
       "attempts": 5,
@@ -262,7 +281,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1791804104920
+      "at": 1791804273714
     },
     "860": {
       "attempts": 1,
@@ -281,13 +300,14 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1791804104920
+      "at": 1791804273714
     }
   },
   "achievements": {
     "deca": 1790334841752,
     "early_bird": 1789601469374,
     "first_blood": 1789386604317,
+    "medium_rare": 1791804118353,
     "night_owl": 1789504270013,
     "on_fire": 1790163197651
   },
@@ -302,11 +322,12 @@
     "2026-09-25",
     "2026-10-05",
     "2026-10-06",
-    "2026-10-08"
+    "2026-10-08",
+    "2026-10-12"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 19
+    "pushes": 20
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
