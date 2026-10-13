@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791892897063,
+  "updatedAt": 1791893074171,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1791892896500
+      "lastSeen": 1791893073641
     }
   },
   "problems": {
@@ -26,7 +26,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "31": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Two Pointers"
       ],
       "title": "Next Permutation",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "39": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "40": {
       "attempts": 1,
@@ -83,7 +83,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "46": {
       "attempts": 2,
@@ -102,7 +102,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "51": {
       "attempts": 1,
@@ -122,7 +122,7 @@
         "Algorithm X"
       ],
       "title": "N-Queens",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "62": {
       "attempts": 3,
@@ -142,7 +142,27 @@
         "Combinatorics"
       ],
       "title": "Unique Paths",
-      "at": 1791892896500
+      "at": 1791893073641
+    },
+    "63": {
+      "attempts": 1,
+      "bestMemory": "43.5 MB (Beats 63%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-13",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-13",
+      "folderName": "0063-Unique-Paths-II",
+      "language": "Java",
+      "number": 63,
+      "slug": "unique-paths-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "title": "Unique Paths II",
+      "at": 1791893073641
     },
     "70": {
       "attempts": 1,
@@ -162,7 +182,7 @@
         "Memoization"
       ],
       "title": "Climbing Stairs",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "122": {
       "attempts": 1,
@@ -182,7 +202,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "131": {
       "attempts": 1,
@@ -202,7 +222,7 @@
         "Backtracking"
       ],
       "title": "Palindrome Partitioning",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "198": {
       "attempts": 2,
@@ -221,7 +241,7 @@
         "Dynamic Programming"
       ],
       "title": "House Robber",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "213": {
       "attempts": 3,
@@ -240,7 +260,7 @@
         "Dynamic Programming"
       ],
       "title": "House Robber II",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "216": {
       "attempts": 4,
@@ -259,7 +279,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "326": {
       "attempts": 1,
@@ -278,7 +298,7 @@
         "Recursion"
       ],
       "title": "Power of Three",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "491": {
       "attempts": 1,
@@ -299,7 +319,7 @@
         "Bit Manipulation"
       ],
       "title": "Non-decreasing Subsequences",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "509": {
       "attempts": 5,
@@ -320,7 +340,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1791892896500
+      "at": 1791893073641
     },
     "860": {
       "attempts": 1,
@@ -339,7 +359,7 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1791892896500
+      "at": 1791893073641
     }
   },
   "achievements": {
@@ -367,7 +387,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 26
+    "pushes": 27
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
