@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793265459115,
+  "updatedAt": 1793265579441,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1793265458294
+      "lastSeen": 1793265578609
     }
   },
   "problems": {
@@ -26,7 +26,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "31": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Two Pointers"
       ],
       "title": "Next Permutation",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "39": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "40": {
       "attempts": 1,
@@ -83,7 +83,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "46": {
       "attempts": 2,
@@ -102,7 +102,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "51": {
       "attempts": 1,
@@ -122,7 +122,7 @@
         "Algorithm X"
       ],
       "title": "N-Queens",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "62": {
       "attempts": 3,
@@ -142,7 +142,7 @@
         "Combinatorics"
       ],
       "title": "Unique Paths",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "63": {
       "attempts": 1,
@@ -162,7 +162,7 @@
         "Matrix"
       ],
       "title": "Unique Paths II",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "64": {
       "attempts": 2,
@@ -182,7 +182,7 @@
         "Matrix"
       ],
       "title": "Minimum Path Sum",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "70": {
       "attempts": 1,
@@ -202,7 +202,7 @@
         "Memoization"
       ],
       "title": "Climbing Stairs",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "122": {
       "attempts": 1,
@@ -222,7 +222,26 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1793265458294
+      "at": 1793265578609
+    },
+    "125": {
+      "attempts": 1,
+      "bestMemory": "44 MB (Beats 89%)",
+      "bestRuntime": "3 ms (Beats 62%)",
+      "date": "2026-10-29",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-29",
+      "folderName": "0125-Valid-Palindrome",
+      "language": "Java",
+      "number": 125,
+      "slug": "valid-palindrome",
+      "solutionCount": 1,
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "title": "Valid Palindrome",
+      "at": 1793265578609
     },
     "131": {
       "attempts": 1,
@@ -242,7 +261,7 @@
         "Backtracking"
       ],
       "title": "Palindrome Partitioning",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "189": {
       "attempts": 1,
@@ -262,7 +281,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "198": {
       "attempts": 2,
@@ -281,7 +300,7 @@
         "Dynamic Programming"
       ],
       "title": "House Robber",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "213": {
       "attempts": 3,
@@ -300,7 +319,7 @@
         "Dynamic Programming"
       ],
       "title": "House Robber II",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "216": {
       "attempts": 4,
@@ -319,7 +338,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "322": {
       "attempts": 2,
@@ -341,7 +360,7 @@
         "Complete Knapsack"
       ],
       "title": "Coin Change",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "326": {
       "attempts": 1,
@@ -360,7 +379,7 @@
         "Recursion"
       ],
       "title": "Power of Three",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "491": {
       "attempts": 1,
@@ -381,7 +400,7 @@
         "Bit Manipulation"
       ],
       "title": "Non-decreasing Subsequences",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "509": {
       "attempts": 5,
@@ -402,7 +421,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "518": {
       "attempts": 1,
@@ -423,7 +442,7 @@
         "Complete Knapsack"
       ],
       "title": "Coin Change II",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "860": {
       "attempts": 1,
@@ -442,7 +461,7 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1793265458294
+      "at": 1793265578609
     },
     "1143": {
       "attempts": 1,
@@ -462,7 +481,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1793265458294
+      "at": 1793265578609
     }
   },
   "achievements": {
@@ -494,7 +513,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 33
+    "pushes": 34
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
