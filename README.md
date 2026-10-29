@@ -38,7 +38,7 @@
 | 62 | [Unique Paths](problems/0062-Unique-Paths) | 🟧 Medium | `Java` | 2026-10-13 |
 | 63 | [Unique Paths II](problems/0063-Unique-Paths-II) | 🟧 Medium | `Java` | 2026-10-13 |
 | 64 | [Minimum Path Sum](problems/0064-Minimum-Path-Sum) | 🟧 Medium | `Java` | 2026-10-14 |
-| 70 | [Climbing Stairs](problems/0070-Climbing-Stairs) | 🟩 Easy | `Java` | 2026-10-08 |
+| 70 | [Climbing Stairs](problems/0070-Climbing-Stairs) | 🟩 Easy | `Java` | 2026-10-29 |
 | 122 | [Best Time to Buy and Sell Stock II](problems/0122-Best-Time-to-Buy-and-Sell-Stock-II) | 🟧 Medium | `Java` | 2026-09-15 |
 | 125 | [Valid Palindrome](problems/0125-Valid-Palindrome) | 🟩 Easy | `Java` | 2026-10-29 |
 | 131 | [Palindrome Partitioning](problems/0131-Palindrome-Partitioning) | 🟧 Medium | `Java` | 2026-10-05 |
