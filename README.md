@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-43%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-26%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-44%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](problems/0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee) | 🟧 Medium | `Java` | 2026-11-17 |
 | 680 | [Valid Palindrome II](problems/0680-Valid-Palindrome-II) | 🟩 Easy | `Java` | 2026-11-17 |
 | 678 | [Valid Parenthesis String](problems/0678-Valid-Parenthesis-String) | 🟧 Medium | `Java` | 2026-11-17 |
 | 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-17 |
@@ -40,7 +41,6 @@
 | 179 | [Largest Number](problems/0179-Largest-Number) | 🟧 Medium | `Java` | 2026-11-17 |
 | 112 | [Path Sum](problems/0112-Path-Sum) | 🟩 Easy | `Java` | 2026-11-17 |
 | 257 | [Binary Tree Paths](problems/0257-Binary-Tree-Paths) | 🟩 Easy | `Java` | 2026-11-16 |
-| 226 | [Invert Binary Tree](problems/0226-Invert-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-16 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 16 solved</summary>
@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 26 solved</summary>
+<summary><strong>🟧 Medium</strong> — 27 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -96,6 +96,7 @@
 | 491 | [Non-decreasing Subsequences](problems/0491-Non-decreasing-Subsequences) | 🟧 Medium | `Java` | 2026-09-23 |
 | 518 | [Coin Change II](problems/0518-Coin-Change-II) | 🟧 Medium | `Java` | 2026-10-28 |
 | 678 | [Valid Parenthesis String](problems/0678-Valid-Parenthesis-String) | 🟧 Medium | `Java` | 2026-11-17 |
+| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](problems/0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee) | 🟧 Medium | `Java` | 2026-11-17 |
 | 1143 | [Longest Common Subsequence](problems/1143-Longest-Common-Subsequence) | 🟧 Medium | `Java` | 2026-10-26 |
 
 </details>
