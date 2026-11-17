@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-39%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-13%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-25%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-40%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-14%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-25%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -63,6 +63,7 @@
 | 316 | [Remove Duplicate Letters](problems/0316-Remove-Duplicate-Letters) | 🟧 Medium | `Java` | 2026-11-17 |
 | 322 | [Coin Change](problems/0322-Coin-Change) | 🟧 Medium | `Java` | 2026-10-28 |
 | 326 | [Power of Three](problems/0326-Power-of-Three) | 🟩 Easy | `Java` | 2026-09-25 |
+| 409 | [Longest Palindrome](problems/0409-Longest-Palindrome) | 🟩 Easy | `Java` | 2026-11-17 |
 | 491 | [Non-decreasing Subsequences](problems/0491-Non-decreasing-Subsequences) | 🟧 Medium | `Java` | 2026-09-23 |
 | 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Java` | 2026-10-08 |
 | 518 | [Coin Change II](problems/0518-Coin-Change-II) | 🟧 Medium | `Java` | 2026-10-28 |
