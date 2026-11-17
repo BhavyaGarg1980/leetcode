@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-41%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-15%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-25%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-42%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-25%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 680 | [Valid Palindrome II](problems/0680-Valid-Palindrome-II) | 🟩 Easy | `Java` | 2026-11-17 |
 | 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-17 |
 | 409 | [Longest Palindrome](problems/0409-Longest-Palindrome) | 🟩 Easy | `Java` | 2026-11-17 |
 | 316 | [Remove Duplicate Letters](problems/0316-Remove-Duplicate-Letters) | 🟧 Medium | `Java` | 2026-11-17 |
@@ -40,10 +41,9 @@
 | 257 | [Binary Tree Paths](problems/0257-Binary-Tree-Paths) | 🟩 Easy | `Java` | 2026-11-16 |
 | 226 | [Invert Binary Tree](problems/0226-Invert-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-16 |
 | 199 | [Binary Tree Right Side View](problems/0199-Binary-Tree-Right-Side-View) | 🟧 Medium | `Java` | 2026-11-16 |
-| 110 | [Balanced Binary Tree](problems/0110-Balanced-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-14 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 15 solved</summary>
+<summary><strong>🟩 Easy</strong> — 16 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -61,6 +61,7 @@
 | 409 | [Longest Palindrome](problems/0409-Longest-Palindrome) | 🟩 Easy | `Java` | 2026-11-17 |
 | 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Java` | 2026-10-08 |
 | 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-17 |
+| 680 | [Valid Palindrome II](problems/0680-Valid-Palindrome-II) | 🟩 Easy | `Java` | 2026-11-17 |
 | 860 | [Lemonade Change](problems/0860-Lemonade-Change) | 🟩 Easy | `Java` | 2026-09-17 |
 
 </details>
