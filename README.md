@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-47%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-29%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-48%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-30%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 700 | [Search in a Binary Search Tree](problems/0700-Search-in-a-Binary-Search-Tree) | 🟩 Easy | `Java` | 2026-11-19 |
+| 98 | [Validate Binary Search Tree](problems/0098-Validate-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-19 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/0236-Lowest-Common-Ancestor-of-a-Binary-Tree) | 🟧 Medium | `Java` | 2026-11-18 |
 | 113 | [Path Sum II](problems/0113-Path-Sum-II) | 🟧 Medium | `Java` | 2026-11-18 |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](problems/0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee) | 🟧 Medium | `Java` | 2026-11-17 |
@@ -40,7 +41,6 @@
 | 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-17 |
 | 409 | [Longest Palindrome](problems/0409-Longest-Palindrome) | 🟩 Easy | `Java` | 2026-11-17 |
 | 316 | [Remove Duplicate Letters](problems/0316-Remove-Duplicate-Letters) | 🟧 Medium | `Java` | 2026-11-17 |
-| 204 | [Count Primes](problems/0204-Count-Primes) | 🟧 Medium | `Java` | 2026-11-17 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 17 solved</summary>
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 29 solved</summary>
+<summary><strong>🟧 Medium</strong> — 30 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -81,6 +81,7 @@
 | 62 | [Unique Paths](problems/0062-Unique-Paths) | 🟧 Medium | `Java` | 2026-10-13 |
 | 63 | [Unique Paths II](problems/0063-Unique-Paths-II) | 🟧 Medium | `Java` | 2026-10-13 |
 | 64 | [Minimum Path Sum](problems/0064-Minimum-Path-Sum) | 🟧 Medium | `Java` | 2026-10-14 |
+| 98 | [Validate Binary Search Tree](problems/0098-Validate-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-19 |
 | 102 | [Binary Tree Level Order Traversal](problems/0102-Binary-Tree-Level-Order-Traversal) | 🟧 Medium | `Java` | 2026-11-13 |
 | 103 | [Binary Tree Zigzag Level Order Traversal](problems/0103-Binary-Tree-Zigzag-Level-Order-Traversal) | 🟧 Medium | `Java` | 2026-11-13 |
 | 113 | [Path Sum II](problems/0113-Path-Sum-II) | 🟧 Medium | `Java` | 2026-11-18 |
