@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-49%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-31%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-50%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-32%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 109 | [Convert Sorted List to Binary Search Tree](problems/0109-Convert-Sorted-List-to-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-20 |
 | 701 | [Insert into a Binary Search Tree](problems/0701-Insert-into-a-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-19 |
 | 700 | [Search in a Binary Search Tree](problems/0700-Search-in-a-Binary-Search-Tree) | 🟩 Easy | `Java` | 2026-11-19 |
 | 98 | [Validate Binary Search Tree](problems/0098-Validate-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-19 |
@@ -40,7 +41,6 @@
 | 680 | [Valid Palindrome II](problems/0680-Valid-Palindrome-II) | 🟩 Easy | `Java` | 2026-11-17 |
 | 678 | [Valid Parenthesis String](problems/0678-Valid-Parenthesis-String) | 🟧 Medium | `Java` | 2026-11-17 |
 | 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-17 |
-| 409 | [Longest Palindrome](problems/0409-Longest-Palindrome) | 🟩 Easy | `Java` | 2026-11-17 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 17 solved</summary>
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 31 solved</summary>
+<summary><strong>🟧 Medium</strong> — 32 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -84,6 +84,7 @@
 | 98 | [Validate Binary Search Tree](problems/0098-Validate-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-19 |
 | 102 | [Binary Tree Level Order Traversal](problems/0102-Binary-Tree-Level-Order-Traversal) | 🟧 Medium | `Java` | 2026-11-13 |
 | 103 | [Binary Tree Zigzag Level Order Traversal](problems/0103-Binary-Tree-Zigzag-Level-Order-Traversal) | 🟧 Medium | `Java` | 2026-11-13 |
+| 109 | [Convert Sorted List to Binary Search Tree](problems/0109-Convert-Sorted-List-to-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-20 |
 | 113 | [Path Sum II](problems/0113-Path-Sum-II) | 🟧 Medium | `Java` | 2026-11-18 |
 | 122 | [Best Time to Buy and Sell Stock II](problems/0122-Best-Time-to-Buy-and-Sell-Stock-II) | 🟧 Medium | `Java` | 2026-09-15 |
 | 131 | [Palindrome Partitioning](problems/0131-Palindrome-Partitioning) | 🟧 Medium | `Java` | 2026-10-05 |
