@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-50%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-32%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-51%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-33%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 215 | [Kth Largest Element in an Array](problems/0215-Kth-Largest-Element-in-an-Array) | 🟧 Medium | `Java` | 2026-11-20 |
 | 109 | [Convert Sorted List to Binary Search Tree](problems/0109-Convert-Sorted-List-to-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-20 |
 | 701 | [Insert into a Binary Search Tree](problems/0701-Insert-into-a-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-19 |
 | 700 | [Search in a Binary Search Tree](problems/0700-Search-in-a-Binary-Search-Tree) | 🟩 Easy | `Java` | 2026-11-19 |
@@ -40,7 +41,6 @@
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](problems/0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee) | 🟧 Medium | `Java` | 2026-11-17 |
 | 680 | [Valid Palindrome II](problems/0680-Valid-Palindrome-II) | 🟩 Easy | `Java` | 2026-11-17 |
 | 678 | [Valid Parenthesis String](problems/0678-Valid-Parenthesis-String) | 🟧 Medium | `Java` | 2026-11-17 |
-| 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-17 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 17 solved</summary>
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 32 solved</summary>
+<summary><strong>🟧 Medium</strong> — 33 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -94,6 +94,7 @@
 | 199 | [Binary Tree Right Side View](problems/0199-Binary-Tree-Right-Side-View) | 🟧 Medium | `Java` | 2026-11-16 |
 | 204 | [Count Primes](problems/0204-Count-Primes) | 🟧 Medium | `Java` | 2026-11-17 |
 | 213 | [House Robber II](problems/0213-House-Robber-II) | 🟧 Medium | `Java` | 2026-10-13 |
+| 215 | [Kth Largest Element in an Array](problems/0215-Kth-Largest-Element-in-an-Array) | 🟧 Medium | `Java` | 2026-11-20 |
 | 216 | [Combination Sum III](problems/0216-Combination-Sum-III) | 🟧 Medium | `Java` | 2026-09-22 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/0236-Lowest-Common-Ancestor-of-a-Binary-Tree) | 🟧 Medium | `Java` | 2026-11-18 |
 | 316 | [Remove Duplicate Letters](problems/0316-Remove-Duplicate-Letters) | 🟧 Medium | `Java` | 2026-11-17 |
