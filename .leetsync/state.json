@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795174539224,
+  "updatedAt": 1795174795943,
   "devices": {
     "8c70ee52-7039-4e9a-bf05-dd6629ac8ca6": {
-      "lastSeen": 1795174538446
+      "lastSeen": 1795174795141
     }
   },
   "problems": {
@@ -26,7 +26,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "31": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Two Pointers"
       ],
       "title": "Next Permutation",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "39": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "40": {
       "attempts": 1,
@@ -83,7 +83,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum II",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "46": {
       "attempts": 2,
@@ -102,7 +102,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "49": {
       "attempts": 1,
@@ -123,7 +123,7 @@
         "Sorting"
       ],
       "title": "Group Anagrams",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "51": {
       "attempts": 1,
@@ -143,7 +143,7 @@
         "Algorithm X"
       ],
       "title": "N-Queens",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "62": {
       "attempts": 3,
@@ -163,7 +163,7 @@
         "Combinatorics"
       ],
       "title": "Unique Paths",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "63": {
       "attempts": 1,
@@ -183,7 +183,7 @@
         "Matrix"
       ],
       "title": "Unique Paths II",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "64": {
       "attempts": 2,
@@ -203,7 +203,7 @@
         "Matrix"
       ],
       "title": "Minimum Path Sum",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "70": {
       "attempts": 3,
@@ -223,7 +223,7 @@
         "Memoization"
       ],
       "title": "Climbing Stairs",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "94": {
       "attempts": 1,
@@ -244,7 +244,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Inorder Traversal",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "98": {
       "attempts": 1,
@@ -265,7 +265,7 @@
         "Binary Tree"
       ],
       "title": "Validate Binary Search Tree",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "100": {
       "attempts": 1,
@@ -286,7 +286,7 @@
         "Binary Tree"
       ],
       "title": "Same Tree",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "102": {
       "attempts": 1,
@@ -306,7 +306,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Level Order Traversal",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "103": {
       "attempts": 1,
@@ -326,7 +326,29 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Zigzag Level Order Traversal",
-      "at": 1795174538446
+      "at": 1795174795141
+    },
+    "109": {
+      "attempts": 1,
+      "bestMemory": "46.3 MB (Beats 80%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-11-20",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-11-20",
+      "folderName": "0109-Convert-Sorted-List-to-Binary-Search-Tree",
+      "language": "Java",
+      "number": 109,
+      "slug": "convert-sorted-list-to-binary-search-tree",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Divide and Conquer",
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "title": "Convert Sorted List to Binary Search Tree",
+      "at": 1795174795141
     },
     "110": {
       "attempts": 1,
@@ -346,7 +368,7 @@
         "Binary Tree"
       ],
       "title": "Balanced Binary Tree",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "112": {
       "attempts": 1,
@@ -367,7 +389,7 @@
         "Binary Tree"
       ],
       "title": "Path Sum",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "113": {
       "attempts": 1,
@@ -388,7 +410,7 @@
         "Binary Tree"
       ],
       "title": "Path Sum II",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "122": {
       "attempts": 1,
@@ -408,7 +430,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "125": {
       "attempts": 1,
@@ -427,7 +449,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "131": {
       "attempts": 1,
@@ -447,7 +469,7 @@
         "Backtracking"
       ],
       "title": "Palindrome Partitioning",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "144": {
       "attempts": 1,
@@ -468,7 +490,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Preorder Traversal",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "179": {
       "attempts": 1,
@@ -489,7 +511,7 @@
         "Sorting"
       ],
       "title": "Largest Number",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "189": {
       "attempts": 1,
@@ -509,7 +531,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "198": {
       "attempts": 2,
@@ -528,7 +550,7 @@
         "Dynamic Programming"
       ],
       "title": "House Robber",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "199": {
       "attempts": 1,
@@ -549,7 +571,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Right Side View",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "204": {
       "attempts": 2,
@@ -573,7 +595,7 @@
         "Prime Number Sieve"
       ],
       "title": "Count Primes",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "213": {
       "attempts": 3,
@@ -592,7 +614,7 @@
         "Dynamic Programming"
       ],
       "title": "House Robber II",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "216": {
       "attempts": 4,
@@ -611,7 +633,7 @@
         "Backtracking"
       ],
       "title": "Combination Sum III",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "226": {
       "attempts": 1,
@@ -632,7 +654,7 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "236": {
       "attempts": 1,
@@ -654,7 +676,7 @@
         "Lowest Common Ancestor"
       ],
       "title": "Lowest Common Ancestor of a Binary Tree",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "257": {
       "attempts": 1,
@@ -676,7 +698,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Paths",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "283": {
       "attempts": 1,
@@ -695,7 +717,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "316": {
       "attempts": 1,
@@ -716,7 +738,7 @@
         "Monotonic Stack"
       ],
       "title": "Remove Duplicate Letters",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "322": {
       "attempts": 2,
@@ -738,7 +760,7 @@
         "Complete Knapsack"
       ],
       "title": "Coin Change",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "326": {
       "attempts": 1,
@@ -757,7 +779,7 @@
         "Recursion"
       ],
       "title": "Power of Three",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "409": {
       "attempts": 1,
@@ -777,7 +799,7 @@
         "Greedy"
       ],
       "title": "Longest Palindrome",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "491": {
       "attempts": 1,
@@ -798,7 +820,7 @@
         "Bit Manipulation"
       ],
       "title": "Non-decreasing Subsequences",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "509": {
       "attempts": 5,
@@ -819,7 +841,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "518": {
       "attempts": 1,
@@ -840,7 +862,7 @@
         "Complete Knapsack"
       ],
       "title": "Coin Change II",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "605": {
       "attempts": 1,
@@ -859,7 +881,7 @@
         "Greedy"
       ],
       "title": "Can Place Flowers",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "678": {
       "attempts": 1,
@@ -881,7 +903,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parenthesis String",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "680": {
       "attempts": 1,
@@ -901,7 +923,7 @@
         "Greedy"
       ],
       "title": "Valid Palindrome II",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "700": {
       "attempts": 1,
@@ -921,7 +943,7 @@
         "Binary Tree"
       ],
       "title": "Search in a Binary Search Tree",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "701": {
       "attempts": 1,
@@ -941,7 +963,7 @@
         "Binary Tree"
       ],
       "title": "Insert into a Binary Search Tree",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "714": {
       "attempts": 1,
@@ -961,7 +983,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock with Transaction Fee",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "860": {
       "attempts": 1,
@@ -980,7 +1002,7 @@
         "Greedy"
       ],
       "title": "Lemonade Change",
-      "at": 1795174538446
+      "at": 1795174795141
     },
     "1143": {
       "attempts": 1,
@@ -1000,7 +1022,7 @@
         "Longest Common Subsequence"
       ],
       "title": "Longest Common Subsequence",
-      "at": 1795174538446
+      "at": 1795174795141
     }
   },
   "achievements": {
@@ -1009,6 +1031,7 @@
     "early_bird": 1789601469374,
     "easy_rider": 1794655292232,
     "first_blood": 1789386604317,
+    "half_century": 1795174554285,
     "medium_rare": 1791804118353,
     "night_owl": 1789504270013,
     "on_fire": 1790163197651,
@@ -1039,11 +1062,12 @@
     "2026-11-16",
     "2026-11-17",
     "2026-11-18",
-    "2026-11-19"
+    "2026-11-19",
+    "2026-11-20"
   ],
   "bests": {
-    "longestStreak": 4,
-    "pushes": 60
+    "longestStreak": 5,
+    "pushes": 61
   },
   "identity": {
     "installId": "f9e2825e-fdc6-482d-b017-5afd82733415",
