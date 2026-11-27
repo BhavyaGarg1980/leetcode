@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-56%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-21%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-34%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-57%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-34%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1022 | [Sum of Root To Leaf Binary Numbers](problems/1022-Sum-of-Root-To-Leaf-Binary-Numbers) | 🟩 Easy | `Java` | 2026-11-27 |
+| 993 | [Cousins in Binary Tree](problems/0993-Cousins-in-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-27 |
 | 671 | [Second Minimum Node In a Binary Tree](problems/0671-Second-Minimum-Node-In-a-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-27 |
 | 637 | [Average of Levels in Binary Tree](problems/0637-Average-of-Levels-in-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-27 |
 | 5 | [Longest Palindromic Substring](problems/0005-Longest-Palindromic-Substring) | 🟧 Medium | `Java` | 2026-11-27 |
@@ -40,10 +41,9 @@
 | 109 | [Convert Sorted List to Binary Search Tree](problems/0109-Convert-Sorted-List-to-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-20 |
 | 701 | [Insert into a Binary Search Tree](problems/0701-Insert-into-a-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-19 |
 | 700 | [Search in a Binary Search Tree](problems/0700-Search-in-a-Binary-Search-Tree) | 🟩 Easy | `Java` | 2026-11-19 |
-| 98 | [Validate Binary Search Tree](problems/0098-Validate-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-19 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 21 solved</summary>
+<summary><strong>🟩 Easy</strong> — 22 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -67,6 +67,7 @@
 | 680 | [Valid Palindrome II](problems/0680-Valid-Palindrome-II) | 🟩 Easy | `Java` | 2026-11-17 |
 | 700 | [Search in a Binary Search Tree](problems/0700-Search-in-a-Binary-Search-Tree) | 🟩 Easy | `Java` | 2026-11-19 |
 | 860 | [Lemonade Change](problems/0860-Lemonade-Change) | 🟩 Easy | `Java` | 2026-09-17 |
+| 993 | [Cousins in Binary Tree](problems/0993-Cousins-in-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1022 | [Sum of Root To Leaf Binary Numbers](problems/1022-Sum-of-Root-To-Leaf-Binary-Numbers) | 🟩 Easy | `Java` | 2026-11-27 |
 
 </details>
