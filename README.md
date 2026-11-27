@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-53%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-34%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-54%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-19%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-34%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 671 | [Second Minimum Node In a Binary Tree](problems/0671-Second-Minimum-Node-In-a-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-27 |
 | 5 | [Longest Palindromic Substring](problems/0005-Longest-Palindromic-Substring) | 🟧 Medium | `Java` | 2026-11-27 |
 | 530 | [Minimum Absolute Difference in BST](problems/0530-Minimum-Absolute-Difference-in-BST) | 🟩 Easy | `Java` | 2026-11-20 |
 | 215 | [Kth Largest Element in an Array](problems/0215-Kth-Largest-Element-in-an-Array) | 🟧 Medium | `Java` | 2026-11-20 |
@@ -40,10 +41,9 @@
 | 98 | [Validate Binary Search Tree](problems/0098-Validate-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-19 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/0236-Lowest-Common-Ancestor-of-a-Binary-Tree) | 🟧 Medium | `Java` | 2026-11-18 |
 | 113 | [Path Sum II](problems/0113-Path-Sum-II) | 🟧 Medium | `Java` | 2026-11-18 |
-| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](problems/0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee) | 🟧 Medium | `Java` | 2026-11-17 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 18 solved</summary>
+<summary><strong>🟩 Easy</strong> — 19 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -62,6 +62,7 @@
 | 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Java` | 2026-10-08 |
 | 530 | [Minimum Absolute Difference in BST](problems/0530-Minimum-Absolute-Difference-in-BST) | 🟩 Easy | `Java` | 2026-11-20 |
 | 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-17 |
+| 671 | [Second Minimum Node In a Binary Tree](problems/0671-Second-Minimum-Node-In-a-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-27 |
 | 680 | [Valid Palindrome II](problems/0680-Valid-Palindrome-II) | 🟩 Easy | `Java` | 2026-11-17 |
 | 700 | [Search in a Binary Search Tree](problems/0700-Search-in-a-Binary-Search-Tree) | 🟩 Easy | `Java` | 2026-11-19 |
 | 860 | [Lemonade Change](problems/0860-Lemonade-Change) | 🟩 Easy | `Java` | 2026-09-17 |
