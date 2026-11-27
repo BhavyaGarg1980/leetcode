@@ -4,7 +4,7 @@
 // Language   : Java
 // Solution   : #1
 // Runtime    : 0 ms (Beats 100%)
-// Memory     : 42.3 MB (Beats 63%)
+// Memory     : 41.6 MB (Beats 99%)
 // Link       : https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
 // ==========================================================
 
