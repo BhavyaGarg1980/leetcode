@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-59%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-23%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-35%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-60%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-24%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-35%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1971 | [Find if Path Exists in Graph](problems/1971-Find-if-Path-Exists-in-Graph) | 🟩 Easy | `Java` | 2026-11-28 |
+| 14 | [Longest Common Prefix](problems/0014-Longest-Common-Prefix) | 🟩 Easy | `Java` | 2026-11-28 |
 | 1022 | [Sum of Root To Leaf Binary Numbers](problems/1022-Sum-of-Root-To-Leaf-Binary-Numbers) | 🟩 Easy | `Java` | 2026-11-27 |
 | 993 | [Cousins in Binary Tree](problems/0993-Cousins-in-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-27 |
 | 671 | [Second Minimum Node In a Binary Tree](problems/0671-Second-Minimum-Node-In-a-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-27 |
@@ -40,13 +41,13 @@
 | 5 | [Longest Palindromic Substring](problems/0005-Longest-Palindromic-Substring) | 🟧 Medium | `Java` | 2026-11-27 |
 | 530 | [Minimum Absolute Difference in BST](problems/0530-Minimum-Absolute-Difference-in-BST) | 🟩 Easy | `Java` | 2026-11-20 |
 | 215 | [Kth Largest Element in an Array](problems/0215-Kth-Largest-Element-in-an-Array) | 🟧 Medium | `Java` | 2026-11-20 |
-| 109 | [Convert Sorted List to Binary Search Tree](problems/0109-Convert-Sorted-List-to-Binary-Search-Tree) | 🟧 Medium | `Java` | 2026-11-20 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 23 solved</summary>
+<summary><strong>🟩 Easy</strong> — 24 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 14 | [Longest Common Prefix](problems/0014-Longest-Common-Prefix) | 🟩 Easy | `Java` | 2026-11-28 |
 | 70 | [Climbing Stairs](problems/0070-Climbing-Stairs) | 🟩 Easy | `Java` | 2026-10-29 |
 | 94 | [Binary Tree Inorder Traversal](problems/0094-Binary-Tree-Inorder-Traversal) | 🟩 Easy | `Java` | 2026-11-12 |
 | 100 | [Same Tree](problems/0100-Same-Tree) | 🟩 Easy | `Java` | 2026-11-14 |
